@@ -2,7 +2,7 @@
 const envv2 = require('./config-db')
 var GITHUB_AUTH_TOKEN;
 var GITHUB_USERNAME;
-var SESSION_ID;
+var SESSION_ID;𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=WjBRnZYY#-xk9Dc2EUE3fRvsoRZ8x0Gha_NITmqRDSXP8-dl112E
 
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
@@ -24,9 +24,9 @@ GITHUB_USERNAME = envv2.GITHUB_USERNAME
 }
 
 
-if(process.env.SESSION_ID){
+if(process.env.SESSION_ID){𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=WjBRnZYY#-xk9Dc2EUE3fRvsoRZ8x0Gha_NITmqRDSXP8-dl112E
 SESSION_ID = process.env.SESSION_ID
-} else {
+} else {𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=WjBRnZYY#-xk9Dc2EUE3fRvsoRZ8x0Gha_NITmqRDSXP8-dl112E
 SESSION_ID = envv2.SESSION_ID
 }
 
