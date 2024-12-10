@@ -38,7 +38,7 @@
 
   </a>
   <a href="https://github.com/ASITHA-MD/ASITHA-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Asitha%20Chathuranga&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Take%20Tee&color=blue&style=metallic>
 
   </a>
   </p>
@@ -62,7 +62,7 @@
 <hr>
 <b>CONTACT OWNER</b>
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94743381623)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/23274448130)
 <hr>
 
 <a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
