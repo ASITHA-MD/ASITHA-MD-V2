@@ -38,7 +38,7 @@
 
   </a>
   <a href="https://github.com/ASITHA-MD/ASITHA-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Asitha%20Chathuranga&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Take%20Tee&color=blue&style=metallic>
 
   </a>
   </p>
